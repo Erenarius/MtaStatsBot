@@ -1,9 +1,13 @@
-# mta-discord-istatistik-botu-v13
-MTA İstatistik Botu
+# Mta Stats Bot
 
-Sistem Detayları;
-- Açıklama Kısmında Aktif Oyuncu Belirtme
-- " /sunucu " Komutu ile Sunucu Hakkındaki Bilgileri Öğrenebilme
+Mta Stats Bot:
+__________________________________________________________________
+* Durum kısmında anlık oyuncu sayısı
+* "/stat" komutu ile server ping, oyuncu sayısı, ip'ye anlık olarak ulaşma
+* "/ip" komutu yalnızca IP adresini gösterecektir.
+* "/ping" yalnızca ping gösterecektir.
+* "/duyuru" ( bu komut henüz yapılmaktadır )
 
-Sistem Tanıtım Linki;
-https://www.youtube.com/watch?v=zU7Z-xpaLnw
+- Gelişmiş MTA Discord Botu yakında sizlerle.
+
+____________________________________________________________________
