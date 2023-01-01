@@ -1,14 +1,14 @@
 {
-  "name": "roxcyrus-mta-status",
-  "version": "1.0.0",
-  "description": "roxcyrus tarafından yapıldı satışı yasaktır.",
+  "name": "mta-stats-bot",
+  "version": "0.0.6"
+  "description": "codded by erenarius",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "roxcyrus",
-  "license": "ISC",
+  "author": "erenarius",
+  "license": "apache 2.0",
   "dependencies": {
     "@discordjs/builders": "^0.6.0",
     "@discordjs/rest": "^0.1.0-canary.0",
