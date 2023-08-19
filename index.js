@@ -57,7 +57,7 @@ arius.on('interactionCreate', async ariusmsg => {
         }).then(async (state) => {
             console.log(state)
             var ariusembed = new Discordarius.MessageEmbed()
-            .setTitle('EREN ROLEPLAY')
+            .setTitle('ARIUS ROLEPLAY V3')
             .addField(`Gecikme Süresi:`,` - ${state.ping}ms`,true)
             .addField(`\nIP/Adres:`,` - ${state.connect}`,true)
             .addField({'• Discord.JS sürüm', value: `14.2.0`, inline: true})
